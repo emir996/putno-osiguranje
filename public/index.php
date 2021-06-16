@@ -46,7 +46,7 @@ include 'inc/navigacija.php';
 
 <script src="public/assets/javascript/selekcijaGIO.js"></script>
 <script src="public/assets/javascript/datetimepicker.js"></script>
-<!-- <script src="public/assets/javascript/validacija.js"></script> -->
+<script src="public/assets/javascript/validacija.js"></script>
 <?php 
     include 'inc/futer.php';
 ?>
