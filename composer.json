@@ -1,0 +1,19 @@
+{
+    "name": "emir/putno-osiguranje",
+    "description": "Putno osiguranje",
+    "authors": [
+        {
+            "name": "emir996",
+            "email": "edzinovic96@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "src\\" : "src/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.0"
+    }
+    
+}
